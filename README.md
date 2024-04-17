@@ -1,4 +1,5 @@
 # Action Get Latest Tag
+Forked from https://github.com/actions-ecosystem/action-get-latest-tag
 
 [![actions-workflow-lint][actions-workflow-lint-badge]][actions-workflow-lint]
 [![release][release-badge]][release]
